@@ -20,5 +20,6 @@
   "homepage": "https://github.com/kohringsw/zookeeper#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
