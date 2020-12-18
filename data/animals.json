@@ -216,6 +216,18 @@
         "hungry"
       ],
       "id": "22"
+    },
+    {
+      "name": "Shleby",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "23"
     }
   ]
 }
